@@ -16,7 +16,7 @@ The Arcade Game has been built using -
 1. HTML 5 canvas
 
 
-Steps to launch the MyReads App:
+Steps to launch the Arcade Game App:
 --------------------------------
 1. Double click on the index.html file and it will launch the game.
 
